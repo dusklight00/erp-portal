@@ -104,7 +104,7 @@ function SignIn() {
           mx={{ base: "auto", lg: "unset" }}
           me='auto'
           mb={{ base: "20px", md: "auto" }}>
-          <Button
+          {/* <Button
             fontSize='sm'
             me='0px'
             mb='26px'
@@ -119,14 +119,14 @@ function SignIn() {
             _focus={googleActive}>
             <Icon as={FcGoogle} w='20px' h='20px' me='10px' />
             Sign in with Google
-          </Button>
-          <Flex align='center' mb='25px'>
+          </Button> */}
+          {/* <Flex align='center' mb='25px'>
             <HSeparator />
             <Text color='gray.400' mx='14px'>
               or
             </Text>
             <HSeparator />
-          </Flex>
+          </Flex> */}
           <FormControl>
             <FormLabel
               display='flex'
