@@ -40,7 +40,7 @@ export default function Overview() {
   return (
     <Box pt={{ base: "130px", md: "80px", xl: "80px" }}>
       {/* Main Fields */}
-      <Grid
+      {/* <Grid
         templateColumns={{
           base: "1fr",
           lg: "1.34fr 1fr 1.62fr",
@@ -112,7 +112,7 @@ export default function Overview() {
             "2xl": "1 / 3 / 2 / 4",
           }}
         />
-      </Grid>
+      </Grid> */}
     </Box>
   );
 }
