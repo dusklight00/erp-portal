@@ -107,7 +107,7 @@ export const barChartOptionsDailyTraffic = {
 
 export const barChartDataConsumption = [
   {
-    name: "PRODUCT A",
+    name: "Value",
     data: [400, 370, 330, 390, 320, 350, 360, 320, 380],
   },
   // {
