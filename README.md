@@ -1,22 +1,20 @@
-# [Horizon UI ⚡️](https://horizon-ui.com/horizon-ui-chakra) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://horizon-ui.com/&text=Check%20Horizon%20UI,%20the%20trendiest%20open-source%20admin%20template%20for%20Chakra%20UI%20&%20React!)
+# ERP Portal
 
-![version](https://img.shields.io/badge/version-1.2.1-brightgreen.svg)
+<!-- ![version](https://img.shields.io/badge/version-1.2.1-brightgreen.svg)
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
-[![GitHub issues open](https://img.shields.io/github/issues/horizon-ui/horizon-ui-chakra.svg?maxAge=2592000)](https://github.com/horizon-ui/horizon-ui-chakra/issues?q=is%3Aopen+is%3Aissue)
+[![GitHub issues open](https://img.shields.io/github/issues/horizon-ui/horizon-ui-chakra.svg?maxAge=2592000)](https://github.com/horizon-ui/horizon-ui-chakra/issues?q=is%3Aopen+is%3Aissue) -->
 
-<p>&nbsp;</p>
+<!-- <p>&nbsp;</p> -->
 
-[<img alt="Horizon UI" src="https://i.ibb.co/fdyTwz1/introduction-image-2.png" /> ](https://github.com/horizon-ui/horizon-ui-chakra)
+<!-- [<img alt="Horizon UI" src="https://i.ibb.co/fdyTwz1/introduction-image-2.png" /> ](https://github.com/horizon-ui/horizon-ui-chakra) -->
 
-<p>&nbsp;</p>
+<!-- <p>&nbsp;</p> -->
 
+A simple ERP Portal configured with Horizon UI
 
-Get started and build your dream web app with Horizon UI, the most trendiest &
-innovative Open Source Admin Template for Chakra UI & React!
+<!-- --- -->
 
----
-
-### Introduction
+<!-- ### Introduction
 
 Designed for those who like modern UI elements and beautiful websites. Made of
 hundred of elements, designed blocks and fully coded pages, Horizon UI is ready
@@ -27,14 +25,13 @@ The fastest, most responsive & trendiest dashboard is here. Seriously.
 
 With Horizon UI you will find many examples for pages like NFTs Pages,
 Authentication Pages, Profile and so on. Just choose between a Basic Design or a
-cover and you are good to go!
+cover and you are good to go! -->
 
-### 🎉 [NEW] Horizon UI Components
+<!-- ### 🎉 [NEW] Horizon UI Components
 All the main components from both versions, this will help you to see and interact with all & the latest added components of Horizon (also, new components are on the way, stay tuned)! ⚡️
-<a href="https://horizon-ui.com/components/?ref=readme-horizon" target="_blank">See all components</a>
+<a href="https://horizon-ui.com/components/?ref=readme-horizon" target="_blank">See all components</a> -->
 
-
-### Documentation
+<!-- ### Documentation
 
 Each element is well presented in a very complex documentation. You can read
 more about the <a href="https://horizon-ui.com/documentation/docs/introduction?ref=readme-horizon" target="_blank">documentation
@@ -112,4 +109,4 @@ new people that already use Horizon UI!
 
 ⭐️ [Copyright 2022 Simmmple ](https://www.simmmple.com/?ref=readme-horizon)
 
-📄 [Horizon UI License](https://www.simmmple.com/licenses?ref=readme-horizon)
+📄 [Horizon UI License](https://www.simmmple.com/licenses?ref=readme-horizon) -->
